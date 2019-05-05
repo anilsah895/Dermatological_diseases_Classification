@@ -1,0 +1,1 @@
+# skin_diseases_detection
